@@ -1,0 +1,10 @@
+button{
+    height: 50px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 7px 7px 7px;
+    margin-top: 200px;
+    width:200px
+    
+}
